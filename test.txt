@@ -1,4 +1,5 @@
 Just a test for check the command line in
 GIT repo by creating this test text file.
-JUST TO TEST2
+JUST TO TEST
+Making changes in new branch
 
