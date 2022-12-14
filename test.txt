@@ -2,4 +2,4 @@ Just a test for check the command line in
 GIT repo by creating this test text file.
 JUST TO TEST
 Making changes in new branch
-
+adding a new line from issue2 branch 
